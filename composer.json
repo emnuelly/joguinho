@@ -1,0 +1,13 @@
+{
+    "require": {
+        "symfony/css-selector": "^4.3"
+    },
+
+    "autoload": {
+        "classmap": ["Character", "Weapon", "Armor", "Backpack", "Item", "Shield", "Vocation"]
+    }
+    }
+
+
+
+
